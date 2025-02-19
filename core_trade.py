@@ -7,8 +7,8 @@ import requests
 import math
 
 # Initialize Binance Testnet client
-api_key = '62114c155fe5b416a20bcc69947c04320ba67b33177da66f4473307d5eeace3a'
-api_secret = '06f866562ac67534f4160f44934f0694852be6468a65f898bb1b14b07c0beecb'
+api_key = ''
+api_secret = ''
 client = Client(api_key, api_secret, testnet=True)
 
 # LINE Bot API settings
